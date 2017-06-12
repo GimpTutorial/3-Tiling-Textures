@@ -39,9 +39,12 @@ public class WebWorker : MonoBehaviour {
 
             if (www.error == null)
             {
-                var map = www.texture;
+                var texture = www.texture;
 				print("Assigining " + property.propertyName);
-                myRenderer.material.SetTexture(property.propertyName, map);
+                myRenderer.material.SetTexture(property.propertyName, texture);
+                // TODO special case bump map
+
+                // Attemt to force update
                 if (property.keyword != "")
                 {
                     myRenderer.material.EnableKeyword(property.keyword);
