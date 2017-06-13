@@ -8,3 +8,6 @@ You can download the latest state of this section, or go to **Commits** then dow
 
 ## Section 3 - Tiling Textures - Lecture List TT_GMP
 Here are the lectures of the course for this section...
+
+## 1_TT_GMP Section 3 Introduction
++ Michael Introduces what it coming up in Section 3
