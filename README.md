@@ -20,3 +20,16 @@ Here are the lectures of the course for this section...
 + Open photo
 + Make image grayscale
 + Use the color curves
+
+### 3_TT_GMP Colour Channels
++ RGB images
++ 3 grayscale channels each 8 bit 24bit colour space
++ Alpha channel is another grayscale 8 bit
++ Working on each channel separately
++ Channel information to layers
+
+### 4_TT_GMP Layer Math Modes
++ Changing the layer mode
++ Understanding the maths options
++ Making Layer Groups
++ https://docs.gimp.org/en/gimp-concepts-layer-modes.html
