@@ -33,3 +33,8 @@ Here are the lectures of the course for this section...
 + Understanding the maths options
 + Making Layer Groups
 + https://docs.gimp.org/en/gimp-concepts-layer-modes.html
+
+### 5_TT_GMP Tiling Textures Introduction
++ Why bother tiling in the first pace?
++ Power of two textures
++ Not necessary, but thakes advantages of GPU
