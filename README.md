@@ -38,3 +38,10 @@ Here are the lectures of the course for this section...
 + Why bother tiling in the first pace?
 + Power of two textures
 + Not necessary, but thakes advantages of GPU
+
+### 6_TT_GMP Quick Win Tiling Textures
++ Not Much Control of the output
++ What happens when you tile a texture?
++ What does seamless mean?
++ How to tile a texture in GIMP
++ Creating an automatic seamless texture in GIMP
