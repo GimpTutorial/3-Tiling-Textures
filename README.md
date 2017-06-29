@@ -6,10 +6,10 @@ You're welcome to download, fork or do whatever else legal with all the files!
 ## How To Use These Files
 You can download the latest state of this section, or go to **Commits** then download to get our project as it was at the end of any lecture.
 
-## Section 3 - Tiling Textures - Lecture List TT_GMP
+## Bonus Section - Tiling Textures - Lecture List TT_GMP
 Here are the lectures of the course for this section...
 
-### 1_TT_GMP Section 3 Introduction
+### 1_TT_GMP Bonus Section Introduction
 + Michael Introduces what it coming up in Section 3
 
 ### 2_TT_GMP What Is A Digital Image?
@@ -45,3 +45,5 @@ Here are the lectures of the course for this section...
 + What does seamless mean?
 + How to tile a texture in GIMP
 + Creating an automatic seamless texture in GIMP
+
+### 7_TT_GMP Texture Type Overview
