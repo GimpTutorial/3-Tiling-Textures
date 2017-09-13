@@ -37,7 +37,7 @@ Here are the lectures of the course for this section...
 ### 5_TT_GMP Tiling Textures Introduction
 + Why bother tiling in the first pace?
 + Power of two textures
-+ Not necessary, but thakes advantages of GPU
++ Not necessary, but takes advantages of GPU
 
 ### 6_TT_GMP Quick Win Tiling Textures
 + Not Much Control of the output
@@ -46,4 +46,5 @@ Here are the lectures of the course for this section...
 + How to tile a texture in GIMP
 + Creating an automatic seamless texture in GIMP
 
-### 7_TT_GMP Texture Type Overview
+### 99_TT_GMP Tiling Textures Wrap Up
++ Michael wraps up the Tiling Textures section
