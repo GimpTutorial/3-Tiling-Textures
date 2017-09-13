@@ -9,10 +9,10 @@ You can download the latest state of this section, or go to **Commits** then dow
 ## Bonus Section - Tiling Textures - Lecture List TT_GMP
 Here are the lectures of the course for this section...
 
-### 1_TT_GMP Bonus Section Introduction
+### 1 Bonus Section Introduction
 + Michael Introduces what it coming up in Section 3
 
-### 2_TT_GMP What Is A Digital Image?
+### 2 What Is A Digital Image?
 + Zooming Right In
 + Digital Image are a numerical representantion of an image
 + This means maths can be used on our images
@@ -21,30 +21,36 @@ Here are the lectures of the course for this section...
 + Make image grayscale
 + Use the color curves
 
-### 3_TT_GMP Colour Channels
+### 3 Colour Channels
 + RGB images
 + 3 grayscale channels each 8 bit 24bit colour space
 + Alpha channel is another grayscale 8 bit
 + Working on each channel separately
 + Channel information to layers
 
-### 4_TT_GMP Layer Math Modes
+### 4 Layer Math Modes
 + Changing the layer mode
 + Understanding the maths options
 + Making Layer Groups
 + https://docs.gimp.org/en/gimp-concepts-layer-modes.html
 
-### 5_TT_GMP Tiling Textures Introduction
+### 5 Tiling Textures Introduction
 + Why bother tiling in the first pace?
 + Power of two textures
 + Not necessary, but takes advantages of GPU
 
-### 6_TT_GMP Quick Win Tiling Textures
+### 6 Quick Win Tiling Textures
 + Not Much Control of the output
 + What happens when you tile a texture?
 + What does seamless mean?
 + How to tile a texture in GIMP
 + Creating an automatic seamless texture in GIMP
 
-### 99_TT_GMP Tiling Textures Wrap Up
+### 99 Tiling Textures Wrap Up
 + Michael wraps up the Tiling Textures section
+
+### 100 End Of course
++ Congratulations!
++ Well done for completing the course
++ Onwards and upwards from here
++ Build out your portfolio
